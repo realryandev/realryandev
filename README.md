@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Ryan
+# Hi there! 👋🏿
 
 * I'm a developer eager to learn and grow.
 * I enjoy problem-solving and building interesting projects.
