@@ -4,7 +4,13 @@ I'm Ryan a Frontend Developer based in South Africa
 
 I like being able to apply my coding knowledge to make fast and attractive sites. My goal is to build fast, reliable and easy to navigate websites while still providing engagement and a great experience for users.
 
-Outside of work I make music for fun and hang out with my friends to take a break from all the devices and enjoy my time while it still last.
+## Beyond Code
+
+Outside of coding I enjoy:
+
+* Making music for fun
+* Spending quality time with friends
+* My favorite anime is Ron Kamonohashi's Forbidden Deductions.
 
 * I'm a developer eager to learn and grow.
 * I enjoy problem-solving and building interesting projects.
