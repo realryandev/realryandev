@@ -1,4 +1,4 @@
-# Hey there! 👋🏿
+# 👋🏿 Hey there!
 
 I'm Ryan a Frontend Developer based in South Africa
 
