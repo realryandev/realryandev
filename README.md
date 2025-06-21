@@ -68,10 +68,10 @@
   <a href="https://youtube.com/@TaylorRaps">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
-  <a href="https://tiktok.com/@realxodog">
+  <a href="https://tiktok.com/@taylorxraps">
     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=flat&logo=tiktok&logoColor=white" alt="TikTok"/>
   </a>
-  <a href="https://fiverr.com/realryandev">
+  <a href="[https://fiverr.com/realryandev](https://www.fiverr.com/s/e6wWbYD)">
     <img src="https://img.shields.io/badge/Fiverr-%231DBF73.svg?style=flat&logo=fiverr&logoColor=white" alt="Fiverr"/>
   </a>
 </p>
