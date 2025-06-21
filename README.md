@@ -39,7 +39,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=realryandev&show_icons=true&theme=dark&hide_border=true" alt="Ryan's GitHub Stats" />
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=realryandev" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-streak-stats.vercel.app/?user=realryandev&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 
