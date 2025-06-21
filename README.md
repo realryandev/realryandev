@@ -39,8 +39,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=realryandev&show_icons=true&theme=dark&hide_border=true" alt="Ryan's GitHub Stats" />
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=realxryan)](https://git.io/streak-stats)
 </p>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=realxryan)](https://git.io/streak-stats)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realryandev&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
