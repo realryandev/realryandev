@@ -1,39 +1,87 @@
-# 👋🏿 Hey there!
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=realryandev&color=0e75b6&style=flat-square" alt="Profile views"/>
+</p>
 
-I'm Ryan a Frontend Developer based in South Africa
+# 👋🏿 Hey there, I’m Ryan!
 
-I like being able to apply my coding knowledge to make fast and attractive sites. My goal is to build fast, reliable and easy to navigate websites while still providing engagement and a great experience for users.
+**Frontend Developer** based in South Africa
 
-## 🧘 Beyond Code
-
-Outside of coding I enjoy:
-
-* Making music for fun
-* Spending quality time with friends
-* My favorite anime is Ron Kamonohashi's Forbidden Deductions.
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/realxodog) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:officialrtskhosana@gmail.com) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=flat&logo=livewire&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=realryandev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=realryandev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=realryandev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=realryandev&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=realryandev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+> I build fast, reliable, and user‑friendly websites with pixel‑perfect UIs and smooth experiences.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=realryandev&icon=1&color=4)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/realxryan) 
+## 🛠️ Tech & Tools
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <!-- Core -->
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <!-- Frameworks & Platforms -->
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white" alt="Vercel"/>
+  <!-- Backend & Databases -->
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/Livewire-%234e56a6.svg?style=flat&logo=livewire&logoColor=white" alt="Livewire"/>
+  <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <!-- VCS & CI/CD -->
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=realryandev&show_icons=true&theme=dark&hide_border=true" alt="Ryan's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=realryandev&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realryandev&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
+</p>
+
+---
+
+## 🎵 Beyond Code
+
+- 🎹 Making music for fun  
+- 👫 Spending quality time with friends  
+- 📺 My favorite anime: *Ron Kamonohashi's Forbidden Deductions*
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://instagram.com/realxodog">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:officialrtskhosana@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://youtube.com/@TaylorRaps">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://tiktok.com/@realxodog">
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=flat&logo=tiktok&logoColor=white" alt="TikTok"/>
+  </a>
+  <a href="https://fiverr.com/realryandev">
+    <img src="https://img.shields.io/badge/Fiverr-%231DBF73.svg?style=flat&logo=fiverr&logoColor=white" alt="Fiverr"/>
+  </a>
+</p>
+
+---
+
+## 💖 Support My Work
+
+<p align="center">
+  <a href="https://paypal.me/realxryan">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
+  </a>
+</p>
