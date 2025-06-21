@@ -39,7 +39,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=realryandev&show_icons=true&theme=dark&hide_border=true" alt="Ryan's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=realryandev&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=realryandev&theme=dark&hide_border=true" alt="GitHub Streak" />
+
 </p>
 
 <p align="center">
