@@ -39,7 +39,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=realryandev&show_icons=true&theme=dark&hide_border=true" alt="Ryan's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.vercel.app/?user=realryandev&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=realxryan&theme=dark&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
