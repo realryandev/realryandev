@@ -38,7 +38,7 @@
 ## 📊 GitHub Stats
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=xodobyte&show_icons=true&theme=dark)](https://github.com/xodobyte/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xodobyte&show_icons=true&theme=dark)](https://github.com/xodobyte/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xodobyte&show_icons=true&theme=dark&layout=pie)](https://github.com/xodobyte/github-readme-stats)
 
 ---
 
