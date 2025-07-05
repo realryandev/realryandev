@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=realryandev&color=0e75b6&style=flat-square" alt="Profile views"/>
 </p>
 
-# 👋🏿 Hey there, I’m Ryan!
+# 👋🏿 Hey there, I’m Xodobyte!
 
 **Frontend Developer** based in South Africa
 
@@ -37,16 +37,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=realryandev&show_icons=true&theme=dark&hide_border=true" alt="Ryan's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.vercel.app/?user=realryandev&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realryandev&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
-</p>
+(https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/xodobyte/github-readme-stats)
 
 ---
 
