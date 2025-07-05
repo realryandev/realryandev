@@ -37,7 +37,7 @@
 
 ## 📊 GitHub Stats
 
-(https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/xodobyte/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/xodobyte/github-readme-stats)
 
 ---
 
