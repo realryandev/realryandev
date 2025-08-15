@@ -1,24 +1,68 @@
-# 💫 About Me:
-I craft fast, intuitive, and visually stunning websites with smooth interactions and pixel-perfect UIs
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/taylorraps) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@taylorxraps) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@TaylorRaps) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:officialrtskhosana@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=flat&logo=livewire&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=xodobyte&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=xodobyte&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xodobyte&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=xodobyte&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=xodobyte&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- ✨ The Digital Wizard Arrives ✨ -->
+<h1 align="center">🚀 Xodobyte — Code Alchemist & UI Sorcerer</h1>
+<p align="center">
+    <em>"I don’t just write code. I sculpt experiences that click, swipe, and glow."</em>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=xodobyte&icon=0&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎭 The Short Version
+💡 I’m the dev you call when you want **fast**, **beautiful**, and **smooth-as-butter** websites that *actually* feel alive.  
+🔮 UI Animations? Crisp.  
+⚡ Performance? Blazing.  
+🎨 Design? Pixel-perfection or it doesn’t ship.  
+
+---
+
+## 🌐 My Digital Lair
+<p align="center">
+    <a href="https://instagram.com/taylorraps"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+    <a href="https://tiktok.com/@taylorxraps"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=TikTok&logoColor=white" /></a>
+    <a href="https://youtube.com/@@TaylorRaps"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
+    <a href="mailto:officialrtskhosana@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+## 🧪 Tech Arsenal
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=js,ts,python,php,html,css,nodejs,react,nextjs,tailwind,laravel,sqlite,git,github,vercel,render" /><br>
+    <img src="https://skillicons.dev/icons?i=framer,npm,livewire" />
+</p>
+
+---
+
+## 📊 Current Battle Stats
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=xodobyte&theme=radical&show_icons=true&hide_border=true" height="165" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=xodobyte&theme=radical&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xodobyte&theme=radical&hide_border=true&layout=compact" />
+</p>
+
+---
+
+## 🏆 The Loot So Far
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=xodobyte&theme=radical&no-frame=true&margin-w=4" />
+</p>
+
+---
+
+## 🎯 Fun Facts About Me
+- I debug faster than I cook noodles 🍜  
+- My CSS animations have their own fan club ✨  
+- “Responsive” isn’t an option — it’s the default 📱💻  
+- If it’s not blazing fast, I’m not done 🚀
+- 🎥 **Anime Fan:** My all-time favorite is *Ron Kamonohashi’s Forbidden Deduction* 🕵️‍♂️  
+    > *"Every puzzle has a thread. You just have to pull it the right way."* — Ron Kamonohashi  
+
+---
+
+<p align="center">
+    <img src="https://visitcount.itsvg.in/api?id=xodobyte&icon=2&color=12" />
+</p>
+
+---
