@@ -37,13 +37,6 @@
 
 ---
 
-<p align="center">
-<!-- Placeholder for your animated skill tree SVG/image -->
-<img src="https://placehold.co/600x250/333333/FFFFFF?text=Animated+Skill+Tree+Coming+Soon" alt="Placeholder for Animated Skill Tree" />
-</p>
-
----
-
 ## 📊 Current Battle Stats
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=xodobyte&theme=radical&show_icons=true&hide_border=true" height="165" />
