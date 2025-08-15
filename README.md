@@ -20,6 +20,7 @@
     <a href="https://tiktok.com/@taylorxraps"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=TikTok&logoColor=white" /></a>
     <a href="https://youtube.com/@@TaylorRaps"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
     <a href="mailto:officialrtskhosana@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://t.me/taylorraps"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
 ---
@@ -62,7 +63,7 @@
 ---
 
 <p align="center">
-    <img src="https://visitcount.itsvg.in/api?id=xodobyte&icon=2&color=12" />
+    <img src="https://visitcount.itsvg.in/api?id=xodobyte&label=Visitors&color=12&icon=2&pretty=true" />
 </p>
 
 ---
