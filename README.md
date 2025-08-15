@@ -15,10 +15,6 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Xodobyte%20—%20Digital%20Alchemist&fontSize=40&fontAlignY=35&desc=Crafting%20fast%20%26%20beautiful%20web%20experiences&descAlignY=55&descAlign=50" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=I+sculpt+experiences+that+click%2C+swipe%2C+and+glow;Pixel-perfect+UIs+with+buttery+smooth+interactions;Turning+ideas+into+digital+magic+%F0%9F%94%AE" />
 </p>
 
