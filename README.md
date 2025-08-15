@@ -62,8 +62,11 @@
 
 ---
 
+## 📈 Visitor Counter
 <p align="center">
-    <img src="https://visitcount.itsvg.in/api?id=xodobyte&label=Visitors&color=12&icon=2&pretty=true" />
+  <img src="https://komarev.com/ghpvc/?username=xodobyte&label=Profile%20Views&color=12a4d9&style=for-the-badge" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+</p>
